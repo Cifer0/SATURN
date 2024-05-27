@@ -1,0 +1,34 @@
+subject= 355147
+date= 2020_05_26
+PATIENT_CAN_READ?= True
+___________________________________________
+ 
+ 
+sometimes_you_pick_a_word
+wordcount= 18
+InstructionTime_ms= 711
+words_per_s= 25.316000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2020-05-26 18:53:35
+ 
+J_word
+TrialTime_ms= 1468
+Errors= 0
+timestamp_at_end_of_this_trial= 2020-05-26 18:53:37
+ 
+sometimes_you_pick_many_words
+wordcount= 30
+InstructionTime_ms= 786
+words_per_s= 38.160000 NA NA NA NA 1
+timestamp_at_end_of_this_trial= 2020-05-26 18:53:38
+ 
+many_word
+TrialTime_ms= 1914
+Errors= 0
+timestamp_at_end_of_this_trial= 2020-05-26 18:53:40
+ 
+sometimes_you_use_numberpad
+wordcount= 14
+InstructionTime_ms= -1
+words_per_s= -14000.000000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2020-05-26 18:53:51
+ 

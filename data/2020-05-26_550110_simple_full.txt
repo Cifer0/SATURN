@@ -1,0 +1,63 @@
+subject= 550110
+date= 2020_05_26
+___________________________________________
+CATEGORY TASK POINTS TIME_MS TOTAL_ERRORS
+ATTENTION SIMPLE_ATTENTION_J 2 1558 NA
+ATTENTION SIMPLE_ATTENTION_FRUIT 2 1602 NA
+ATTENTION SIMPLE_ATTENTION_1239 2 2318 NA
+SPATIAL SIMPLE_SHAPE NA NA NA
+SPATIAL FACE NA NA NA
+SPATIAL LINE_DRAW NA NA NA
+SPATIAL CUBE NA NA NA
+ORIENTATION MONTH NA NA NA
+ORIENTATION YEAR NA NA NA
+ORIENTATION DAY_OF_WEEK NA NA NA
+ORIENTATION STATE NA NA NA
+MEMORY INCIDENTAL_MEMORY_PHRASE 1 1980 NA
+MEMORY INCIDENTAL_MEMORY_J 0 -1 NA
+MEMORY INCIDENTAL_MEMORY_NUMBER NA NA NA
+MEMORY RECALL_FIVEWORDS NA NA NA
+MATH ADD_67 NA NA NA
+MATH SUBTRACT_33 NA NA NA
+STROOP SUM NA NA NA
+TOTAL NA 7 45618 NA
+READING WORDS_PER_S NA 19.774 NA
+MOTOR MS_PER_BUTTON NA 428 NA
+___________________________________________
+___________________________________________
+timestamp_at_experiment_start= 2020-05-26 18:53:57
+timestamp_at_experiment_end= 2020-05-26 18:54:43
+___________________________________________
+___________________________________________
+TASK ERRORS TIME_MS 
+WARMUP1 NA NA 
+WARMUP2 NA NA 
+WARMUP3 NA NA 
+STROOP04 NA NA 
+STROOP05 NA NA 
+STROOP06 NA NA 
+STROOP07 NA NA 
+STROOP08 NA NA 
+STROOP09 NA NA 
+STROOP10 NA NA 
+STROOP11 NA NA 
+STROOP12 NA NA 
+STROOP13 NA NA 
+STROOP14 NA NA 
+STROOP15 NA NA 
+_________________________________________________
+_BELOW_HERE_READ_SPEEDS_to_calculate_IQR_if_desired__
+_________________________________________________
+19.293
+38.363
+19.774
+35.475
+14.099
+_________________________________________________
+___BELOW_HERE_MOTOR_SPEEDS_to_calculate_IQR_if_desired___
+_________________________________________________
+605
+351
+290
+428
+644

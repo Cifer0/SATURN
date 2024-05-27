@@ -1,0 +1,75 @@
+subject= 550110
+date= 2020_05_26
+PATIENT_CAN_READ?= True
+___________________________________________
+ 
+ 
+sometimes_you_pick_a_word
+wordcount= 18
+InstructionTime_ms= 933
+words_per_s= 19.293000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2020-05-26 18:53:58
+ 
+J_word
+TrialTime_ms= 1558
+Errors= 0
+timestamp_at_end_of_this_trial= 2020-05-26 18:54:00
+ 
+sometimes_you_pick_many_words
+wordcount= 30
+InstructionTime_ms= 782
+words_per_s= 38.360000 NA NA NA NA 1
+timestamp_at_end_of_this_trial= 2020-05-26 18:54:01
+ 
+many_word
+TrialTime_ms= 1602
+Errors= 0
+timestamp_at_end_of_this_trial= 2020-05-26 18:54:03
+ 
+sometimes_you_use_numberpad
+wordcount= 14
+InstructionTime_ms= 708
+words_per_s= 19.774000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2020-05-26 18:54:04
+ 
+_____________________
+numberpad_running_log
+_____________________
+   button1_at_ms 605 NA NA NA 2
+   button2_at_ms 956 NA NA NA 2
+   button3_at_ms 1246 NA NA NA 2
+   button9_at_ms 1674 NA NA NA 2
+   NEXT_at_ms 2318 NA NA NA 2
+_____________________
+numberpad_summary
+_____________________
+TrialTime_ms= 2318
+Errors= 0
+timestamp_at_end_of_this_trial= 2020-05-26 18:54:07
+ 
+remember_five_words
+wordcount= 37
+InstructionTime_ms= 1043
+words_per_s= 35.475000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2020-05-26 18:54:08
+ 
+few_more_questions
+wordcount= 14
+InstructionTime_ms= 993
+words_per_s= 14.099000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2020-05-26 18:54:30
+ 
+What_was_that_phrase?___summary
+TrialTime_ms= 1980
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= CLOSE YOUR EYES
+answer_correct(Y/N)?= Y
+timestamp_at_end_of_this_trial= 2020-05-26 18:54:32
+ 
+What_was_that_J_word?___summary
+TrialTime_ms= -1
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= [' ']
+answer_correct(Y/N)?= N
+timestamp_at_end_of_this_trial= 2020-05-26 18:54:43
+ 

@@ -1,0 +1,412 @@
+subject= 446930
+date= 2024_05_23
+PATIENT_CAN_READ?= True
+___________________________________________
+ 
+ 
+sometimes_you_pick_a_word
+wordcount= 18
+InstructionTime_ms= 860
+words_per_s= 20.930000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2024-05-23 17:05:05
+ 
+J_word
+TrialTime_ms= 3643
+Errors= 0
+timestamp_at_end_of_this_trial= 2024-05-23 17:05:09
+ 
+sometimes_you_pick_many_words
+wordcount= 30
+InstructionTime_ms= 2646
+words_per_s= 11.330000 NA NA NA NA 1
+timestamp_at_end_of_this_trial= 2024-05-23 17:05:12
+ 
+many_word
+TrialTime_ms= 5943
+Errors= 0
+timestamp_at_end_of_this_trial= 2024-05-23 17:05:18
+ 
+sometimes_you_use_numberpad
+wordcount= 14
+InstructionTime_ms= 2079
+words_per_s= 6.734000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2024-05-23 17:05:20
+ 
+_____________________
+numberpad_running_log
+_____________________
+   button1_at_ms 2413 NA NA NA 2
+   button2_at_ms 2785 NA NA NA 2
+   button3_at_ms 3275 NA NA NA 2
+   button9_at_ms 3943 NA NA NA 2
+   NEXT_at_ms 5097 NA NA NA 2
+_____________________
+numberpad_summary
+_____________________
+TrialTime_ms= 5097
+Errors= 0
+timestamp_at_end_of_this_trial= 2024-05-23 17:05:25
+ 
+remember_five_words
+wordcount= 37
+InstructionTime_ms= 5169
+words_per_s= 7.158000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2024-05-23 17:05:31
+ 
+few_more_questions
+wordcount= 14
+InstructionTime_ms= 2924
+words_per_s= 4.788000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2024-05-23 17:05:52
+ 
+What_was_that_phrase?___summary
+TrialTime_ms= 4883
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= CLOSE YOUR EYES
+answer_correct(Y/N)?= Y
+timestamp_at_end_of_this_trial= 2024-05-23 17:05:57
+ 
+What_was_that_J_word?___summary
+TrialTime_ms= 3165
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= Jazz
+answer_correct(Y/N)?= Y
+timestamp_at_end_of_this_trial= 2024-05-23 17:06:00
+ 
+_______________________________________________________
+What_was_prior_numberpad_input?___numberpad_running_log
+_______________________________________________________
+   button1_at_ms 1364 NA NA NA 3
+   button2_at_ms 1698 NA NA NA 3
+   button3_at_ms 2144 NA NA NA 3
+   button9_at_ms 2720 NA NA NA 3
+   NEXT_at_ms 3788 NA NA NA 3
+__________________________
+What_was_prior_numberpad_input?___summary
+__________________________
+TrialTime_ms= 3788
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= 1239
+answer_correct(Y/N)?= Y
+timestamp_at_end_of_this_trial= 2024-05-23 17:06:04
+ 
+What_month_is_it?___summary
+TrialTime_ms= 9596
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= May
+answer_correct(Y/N)?= Y
+timestamp_at_end_of_this_trial= 2024-05-23 17:06:14
+ 
+________________________________________
+What_year_is_it?___numberpad_running_log
+________________________________________
+   button2_at_ms 2289 NA NA NA 4
+   button0_at_ms 3321 NA NA NA 4
+   button2_at_ms 3945 NA NA NA 4
+   button4_at_ms 4327 NA NA NA 4
+   NEXT_at_ms 5177 NA NA NA 4
+__________________________
+What_year_is_it?___summary
+__________________________
+TrialTime_ms= 5177
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= 2024
+answer_correct(Y/N)?= Y
+timestamp_at_end_of_this_trial= 2024-05-23 17:06:19
+ 
+What_day_of_week_is_it?___summary
+TrialTime_ms= 5052
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= Thursday
+answer_correct(Y/N)?= Y
+timestamp_at_end_of_this_trial= 2024-05-23 17:06:25
+ 
+What_state_are_we_in?___summary
+TrialTime_ms= 71085
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= OREGON
+answer_correct(Y/N)?= Y
+timestamp_at_end_of_this_trial= 2024-05-23 17:07:36
+ 
+FIVE_WORD_RECALL
+TrialTime_ms= 52197
+with_this_many_inappropriate(too_few_or_too_many_words)_attempts_to_end= 0
+alphabetized_RESPONSES=   APPLE CAR HOUSE PEN TIE
+freely_recalled_how_many_of_5?= 5
+timestamp_of_first_word_presentation_hr_min_sec?= 2024-05-23 17:05:31
+timestamp_of_word_recall_start_hr_min_sec?= 2024-05-23 17:07:36
+seconds_between_present_and_recall(method_1)?= 125
+seconds_between_present_and_recall(method_2)?= 124.532802
+timestamp_at_end_of_this_trial= 2024-05-23 17:08:28
+ 
+_____________________________________________
+SLUMS_how_much_spent?___numberpad_running_log
+_____________________________________________
+   button6_at_ms 7439 NA NA NA 34
+   button7_at_ms 8169 NA NA NA 34
+   NEXT_at_ms 9123 NA NA NA 34
+_______________________________
+SLUMS_how_much_spent?___summary
+_______________________________
+TrialTime_ms= 9123
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= 67
+answer_correct(Y/N)?= Y
+timestamp_at_end_of_this_trial= 2024-05-23 17:08:38
+ 
+_____________________________________________
+SLUMS_how_much_left?____numberpad_running_log
+_____________________________________________
+   button3_at_ms 8318 NA NA NA 35
+   button3_at_ms 9207 NA NA NA 35
+   NEXT_at_ms 12336 NA NA NA 35
+_______________________________
+SLUMS_how_much_left?____summary
+_______________________________
+TrialTime_ms= 12336
+with_this_many_premature_attempts_to_end= 0
+RESPONSE= 33
+answer_correct(Y/N)?= Y
+timestamp_at_end_of_this_trial= 2024-05-23 17:08:50
+ 
+next_you_will_see_some_drawings
+wordcount= 18
+InstructionTime_ms= 7182
+words_per_s= 2.506000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2024-05-23 17:08:57
+ 
+DRAWING_TASK_01
+TrialTime_ms= 5161
+with_this_many_inappropriate(too_few_or_too_many_selection)_attempts_to_end= 0
+alphabetized_RESPONSES=   FIVE ONE
+correct_out_of_2?= 2
+ 
+DRAWING_TASK_02
+TrialTime_ms= 7998
+with_this_many_inappropriate(too_few_or_too_many_selection)_attempts_to_end= 0
+alphabetized_RESPONSES=   SIX TWO
+correct_out_of_2?= 2
+ 
+DRAWING_TASK_03
+TrialTime_ms= 6912
+with_this_many_inappropriate(too_few_or_too_many_selection)_attempts_to_end= 0
+alphabetized_RESPONSES=   ONE SIX
+correct_out_of_2?= 1
+ 
+DRAWING_TASK_04
+TrialTime_ms= 4501
+with_this_many_inappropriate(too_few_or_too_many_selection)_attempts_to_end= 0
+alphabetized_RESPONSES=   FOUR THREE
+correct_out_of_2?= 2
+ 
+next_you_will_see_some_words
+wordcount= 14
+InstructionTime_ms= 3779
+words_per_s= 3.705000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2024-05-23 17:09:26
+ 
+ 
+___STROOP_TRIAL_01
+word_says= hand
+text_color_is= blue
+TrialTime_ms= 2372 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 1112
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:29
+ 
+ 
+___STROOP_TRIAL_02
+word_says= book
+text_color_is= red
+TrialTime_ms= 1836 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 859
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:31
+ 
+ 
+___STROOP_TRIAL_03
+word_says= table
+text_color_is= green
+TrialTime_ms= 1671 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 729
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:33
+ 
+ 
+___STROOP_TRIAL_04
+word_says= green
+text_color_is= blue
+TrialTime_ms= 2376 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 1059
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:35
+ 
+ 
+___STROOP_TRIAL_05
+word_says= red
+text_color_is= green
+TrialTime_ms= 2278 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 1147
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:38
+ 
+ 
+___STROOP_TRIAL_06
+word_says= blue
+text_color_is= red
+TrialTime_ms= 1652 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 746
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:40
+ 
+ 
+___STROOP_TRIAL_07
+word_says= red
+text_color_is= blue
+TrialTime_ms= 2313 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 972
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:42
+ 
+ 
+___STROOP_TRIAL_08
+word_says= blue
+text_color_is= green
+TrialTime_ms= 2075 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 1263
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:45
+ 
+ 
+___STROOP_TRIAL_09
+word_says= green
+text_color_is= red
+TrialTime_ms= 1338 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 601
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:46
+ 
+ 
+___STROOP_TRIAL_10
+word_says= red
+text_color_is= green
+TrialTime_ms= 1683 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 773
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:48
+ 
+ 
+___STROOP_TRIAL_11
+word_says= blue
+text_color_is= red
+TrialTime_ms= 1499 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 753
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:49
+ 
+ 
+___STROOP_TRIAL_12
+word_says= red
+text_color_is= blue
+TrialTime_ms= 2183 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 1073
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:52
+ 
+ 
+___STROOP_TRIAL_13
+word_says= green
+text_color_is= red
+TrialTime_ms= 1745 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 684
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:54
+ 
+ 
+___STROOP_TRIAL_14
+word_says= blue
+text_color_is= green
+TrialTime_ms= 1522 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 700
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:56
+ 
+ 
+___STROOP_TRIAL_15
+word_says= green
+text_color_is= blue
+TrialTime_ms= 1958 NA NA NA NA 999
+with_this_many_premature_attempts_to_end= 0
+with_this_many_ERRORS= 0
+motor_speed__time_between_last_selection_and_next_button_push_ms= 708
+timestamp_at_end_of_this_trial= 2024-05-23 17:09:58
+ 
+dots_instruction_almost_done
+wordcount= 11
+InstructionTime_ms= 2779
+words_per_s= 3.958000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2024-05-23 17:10:01
+ 
+dots_instruction_numbered_dots_go_1_2_3
+wordcount= 22
+InstructionTime_ms= 6108
+words_per_s= 3.602000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2024-05-23 17:10:07
+ 
+dots_instruction_dots_look_like_this
+wordcount= 25
+InstructionTime_ms= 5127
+words_per_s= 4.876000 NA NA NA NA 1
+timestamp_at_end_of_this_instruction_screen= 2024-05-23 17:10:12
+ 
+_______________________
+Trails_A___running_log
+_______________________
+   CORRECT_button1@ 2032 ms into trial
+   CORRECT_button2@ 2913 ms into trial
+   CORRECT_button3@ 4083 ms into trial
+   CORRECT_button4@ 4827 ms into trial
+   CORRECT_button5@ 5713 ms into trial
+   NEXT_at_ms 6725
+__________________
+Trails_A___summary
+___________________
+total_time_spent_ms= 6725
+number_of_trail_errors_(not_counting_attempts_to_end_early)= 0
+number_of_attempts_to_end_early= 0
+timestamp_at_end_of_this_trial= 2024-05-23 17:10:19
+ 
+_______________________
+Trails_Bsmall___running_log
+_______________________
+   CORRECT_button1,@ 4252 ms into trial
+   CORRECT_buttonA,@ 5614 ms into trial
+   CORRECT_button2,@ 7408 ms into trial
+   CORRECT_buttonB,@ 8338 ms into trial
+   CORRECT_button3,@ 9326 ms into trial
+   CORRECT_buttonC,@ 9969 ms into trial
+   CORRECT_button4,@ 10622 ms into trial
+   CORRECT_buttonD,@ 11146 ms into trial
+   NEXT_at_ms 12182
+__________________
+Trails_Bsmall___summary
+___________________
+total_time_spent_ms= 12182
+number_of_trail_errors_(not_counting_attempts_to_end_early)= 0
+number_of_attempts_to_end_early= 0
+timestamp_at_end_of_this_trial= 2024-05-23 17:10:32
+ 

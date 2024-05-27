@@ -1,0 +1,13 @@
+subject= 446930
+date= 2024_05_23
+___________________________________________
+TASK POINTS TIME_MS 
+MONTH 1 9596 
+YEAR 1 5177 
+Thursday 1 5052 
+OREGON 1 71085 
+___________________________________________
+TASK POINTS TIME_MS 
+INCIDENTAL_MEMORY_PHRASE 1 4883 
+INCIDENTAL_MEMORY_J 1 3165 
+1239 1 3788 

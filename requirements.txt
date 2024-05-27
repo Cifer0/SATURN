@@ -1,0 +1,5 @@
+numpy==1.6.1
+Pillow==1.1
+pygame==1.9.4
+PyOpenGL==3.0.2
+visionegg==1.2.1

@@ -1,0 +1,418 @@
+2020-05-26 18:50:34,338 (9292) INFO: Script E:\[Documents]\[[[PREPPING SATURN PUBLISHED FOR DRYAD]]]\ENGLISH_VERSION_VALIDATED\SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 9292.
+2020-05-26 18:50:35,250 (9292) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2020-05-26 18:50:37,144 (9292) INFO: Error while trying to set_icon: <class 'pygame.error'>: Empty destination palette
+2020-05-26 18:50:37,144 (9292) INFO: OpenGL 4.6.0 NVIDIA 388.13, GeForce GT 730/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 2.0.2.01)
+2020-05-26 18:50:37,145 (9292) INFO: Video system reports 8 bpp (8 8 8 0 RGBA).
+2020-05-26 18:50:37,196 (9292) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2020-05-26 18:50:50,535 (11908) INFO: Script E:\[Documents]\[[[PREPPING SATURN PUBLISHED FOR DRYAD]]]\ENGLISH_VERSION_VALIDATED\SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 11908.
+2020-05-26 18:50:50,592 (11908) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2020-05-26 18:50:51,325 (11908) INFO: Error while trying to set_icon: <class 'pygame.error'>: Empty destination palette
+2020-05-26 18:50:51,325 (11908) INFO: OpenGL 4.6.0 NVIDIA 388.13, GeForce GT 730/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 2.0.2.01)
+2020-05-26 18:50:51,325 (11908) INFO: Video system reports 8 bpp (8 8 8 0 RGBA).
+2020-05-26 18:50:51,331 (11908) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2020-05-26 18:50:56,368 (9332) INFO: Script E:\[Documents]\[[[PREPPING SATURN PUBLISHED FOR DRYAD]]]\ENGLISH_VERSION_VALIDATED\SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 9332.
+2020-05-26 18:50:56,453 (9332) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2020-05-26 18:50:57,176 (9332) INFO: Error while trying to set_icon: <class 'pygame.error'>: Empty destination palette
+2020-05-26 18:50:57,177 (9332) INFO: OpenGL 4.6.0 NVIDIA 388.13, GeForce GT 730/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 2.0.2.01)
+2020-05-26 18:50:57,177 (9332) INFO: Video system reports 8 bpp (8 8 8 0 RGBA).
+2020-05-26 18:50:57,181 (9332) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2024-05-22 21:38:27,740 (128101) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 128101.
+2024-05-22 21:38:27,949 (128101) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 18, in <module>
+    from VisionEgg.Textures import *
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 28, in <module>
+    import Image, ImageDraw                         # Python Imaging Library packages
+ImportError: No module named Image
+
+2024-05-22 21:41:54,322 (128300) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 128300.
+2024-05-22 21:41:54,418 (128300) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 18, in <module>
+    from VisionEgg.Textures import *
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 28, in <module>
+    import Image, ImageDraw                         # Python Imaging Library packages
+ImportError: No module named Image
+
+2024-05-22 21:43:19,020 (128427) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 128427.
+2024-05-22 21:43:19,392 (128427) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 18, in <module>
+    from VisionEgg.Textures import *
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 42, in <module>
+    import ImageFile, ImageFileIO, BmpImagePlugin, JpegImagePlugin, PngImagePlugin
+ImportError: No module named ImageFile
+
+2024-05-22 21:43:38,799 (128456) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 128456.
+2024-05-22 21:43:39,266 (128456) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 25, in <module>
+    import winsound
+ImportError: No module named winsound
+
+2024-05-22 21:44:03,215 (128481) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 128481.
+2024-05-22 21:44:03,335 (128481) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-22 21:44:03,515 (128481) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-22 21:44:03,515 (128481) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-22 21:44:03,516 (128481) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 74, in <module>
+    os.chdir("bin\\")
+OSError: [Errno 2] No such file or directory: 'bin\\'
+
+2024-05-22 21:44:03,520 (128481) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 74, in <module>
+    os.chdir("bin\\")
+OSError: [Errno 2] No such file or directory: 'bin\\'
+
+2024-05-22 21:45:33,548 (128521) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 128521.
+2024-05-22 21:45:33,707 (128521) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-22 21:45:33,902 (128521) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-22 21:45:33,902 (128521) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-22 21:45:34,038 (128521) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-22 21:45:34,042 (128521) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-22 21:50:19,867 (129162) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 129162.
+2024-05-22 21:50:20,027 (129162) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-22 21:50:20,314 (129162) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-22 21:50:20,314 (129162) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-22 21:50:20,535 (129162) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-22 21:50:20,552 (129162) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-22 21:57:39,076 (129548) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 129548.
+2024-05-22 21:57:39,281 (129548) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-22 21:57:39,571 (129548) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-22 21:57:39,572 (129548) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-22 21:57:39,783 (129548) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-22 21:57:39,792 (129548) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-22 21:59:37,808 (129659) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 129659.
+2024-05-22 21:59:38,053 (129659) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-22 21:59:38,349 (129659) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-22 21:59:38,350 (129659) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-22 21:59:38,540 (129659) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-22 21:59:38,562 (129659) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-22 22:01:24,662 (129863) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 129863.
+2024-05-22 22:01:24,871 (129863) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-22 22:01:25,161 (129863) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-22 22:01:25,162 (129863) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-22 22:01:25,407 (129863) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-22 22:01:25,429 (129863) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-22 22:05:24,429 (130032) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 130032.
+2024-05-22 22:05:25,040 (130032) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-22 22:05:25,252 (130032) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-22 22:05:25,253 (130032) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-23 16:52:05,510 (6830) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 6830.
+2024-05-23 16:52:05,881 (6830) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-23 16:52:06,208 (6830) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-23 16:52:06,208 (6830) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-23 16:52:06,454 (6830) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-23 16:52:06,463 (6830) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 837, in HOMEscreen
+    stim = TextureStimulus(texture=HOMESCREEN,position=(0,0))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1170, in __init__
+    self._reload_texture()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 1181, in _reload_texture
+    build_mipmaps = self.constant_parameters.mipmaps_enabled )
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Textures.py", line 368, in load
+    buffer.paste( self.texels, (0,height_pow2-height,width,height_pow2))
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 1088, in paste
+    im.load()
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/ImageFile.py", line 189, in load
+    d = Image._getdecoder(self.mode, d, a, self.decoderconfig)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/PIL/PIL/Image.py", line 385, in _getdecoder
+    raise IOError("decoder %s not available" % decoder_name)
+IOError: decoder zip not available
+
+2024-05-23 16:58:35,536 (8059) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 8059.
+2024-05-23 16:58:35,824 (8059) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-23 16:58:36,136 (8059) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-23 16:58:36,137 (8059) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-23 17:01:25,780 (8059) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10406, in <module>
+    ScreenNumber, canRead, RESET = NURSEscreen(ScreenNumber, canRead, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 977, in NURSEscreen
+    for event in pygame.event.get():
+KeyboardInterrupt
+
+2024-05-23 17:01:25,784 (8059) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10406, in <module>
+    ScreenNumber, canRead, RESET = NURSEscreen(ScreenNumber, canRead, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 977, in NURSEscreen
+    for event in pygame.event.get():
+KeyboardInterrupt
+
+2024-05-23 17:01:26,165 (8195) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 8195.
+2024-05-23 17:01:26,329 (8195) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-23 17:01:26,553 (8195) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-23 17:01:26,553 (8195) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-23 17:01:36,091 (8195) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 847, in HOMEscreen
+    for event in pygame.event.get():
+KeyboardInterrupt
+
+2024-05-23 17:01:36,094 (8195) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10396, in <module>
+    ScreenNumber, RESET = HOMEscreen(ScreenNumber, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 847, in HOMEscreen
+    for event in pygame.event.get():
+KeyboardInterrupt
+
+2024-05-23 17:01:36,384 (8228) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 8228.
+2024-05-23 17:01:36,559 (8228) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-23 17:01:36,863 (8228) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-23 17:01:36,863 (8228) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-23 17:01:45,339 (8228) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10419, in <module>
+    os.chdir("data\\")
+OSError: [Errno 2] No such file or directory: 'data\\'
+
+2024-05-23 17:01:45,345 (8228) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10419, in <module>
+    os.chdir("data\\")
+OSError: [Errno 2] No such file or directory: 'data\\'
+
+2024-05-23 17:02:07,411 (8265) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 8265.
+2024-05-23 17:02:07,546 (8265) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-23 17:02:07,712 (8265) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-23 17:02:07,712 (8265) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-23 17:02:26,161 (8265) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10512, in <module>
+    os.chdir("data\\")
+OSError: [Errno 2] No such file or directory: 'data\\'
+
+2024-05-23 17:02:26,169 (8265) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10512, in <module>
+    os.chdir("data\\")
+OSError: [Errno 2] No such file or directory: 'data\\'
+
+2024-05-23 17:04:54,817 (8398) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 8398.
+2024-05-23 17:04:54,925 (8398) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-23 17:04:55,105 (8398) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-23 17:04:55,105 (8398) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-23 17:10:42,362 (8398) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 13281, in <module>
+    image = VisionEgg.Core.Screen.get_framebuffer_as_image(screen, buffer='back', format=6407, position=(0, 0), anchor='lowerleft', size=None)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Core.py", line 435, in get_framebuffer_as_image
+    import Image # Could import this at the beginning of the file, but it breaks sometimes.
+ImportError: No module named Image
+
+2024-05-23 17:10:42,377 (8398) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 13281, in <module>
+    image = VisionEgg.Core.Screen.get_framebuffer_as_image(screen, buffer='back', format=6407, position=(0, 0), anchor='lowerleft', size=None)
+  File "/home/jan/PycharmProjects/pythonProject2/.venv/lib/python2.7/site-packages/VisionEgg/Core.py", line 435, in get_framebuffer_as_image
+    import Image # Could import this at the beginning of the file, but it breaks sometimes.
+ImportError: No module named Image
+
+2024-05-23 17:11:33,461 (8539) INFO: Script /home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py started Vision Egg 1.2.1 with process id 8539.
+2024-05-23 17:11:33,824 (8539) INFO: Requesting window 1024 x 600 8 bpp (8 8 8 0 RGBA).
+2024-05-23 17:11:34,205 (8539) INFO: OpenGL 4.6.0 NVIDIA 535.171.04, NVIDIA GeForce RTX 4070 Ti/PCIe/SSE2, NVIDIA Corporation (PyOpenGL 3.0.2)
+2024-05-23 17:11:34,206 (8539) INFO: Video system reports 32 bpp (8 8 8 0 RGBA).
+2024-05-23 17:14:33,981 (8539) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10406, in <module>
+    ScreenNumber, canRead, RESET = NURSEscreen(ScreenNumber, canRead, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 977, in NURSEscreen
+    for event in pygame.event.get():
+KeyboardInterrupt
+
+2024-05-23 17:14:33,990 (8539) CRITICAL: Traceback (most recent call last):
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 10406, in <module>
+    ScreenNumber, canRead, RESET = NURSEscreen(ScreenNumber, canRead, RESET)
+  File "/home/jan/PycharmProjects/pythonProject2/SATURN_0-4-0_ENGLISH.py", line 977, in NURSEscreen
+    for event in pygame.event.get():
+KeyboardInterrupt
+

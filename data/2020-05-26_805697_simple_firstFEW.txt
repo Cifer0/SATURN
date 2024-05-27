@@ -1,0 +1,13 @@
+subject= 805697
+date= 2020_05_26
+___________________________________________
+TASK POINTS TIME_MS 
+MONTH 1 2675 
+YEAR 1 3265 
+Tuesday 1 3369 
+OREGON 1 1690 
+___________________________________________
+TASK POINTS TIME_MS 
+INCIDENTAL_MEMORY_PHRASE 0 3325 
+INCIDENTAL_MEMORY_J 1 1349 
+1239 1 3006 
